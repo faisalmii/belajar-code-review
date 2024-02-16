@@ -1,2 +1,3 @@
 # belajar-code-review
-Kita hari ini belajar **code review**
+Hari ini On Boarding
+Besok Libur
